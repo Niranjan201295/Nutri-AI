@@ -1,6 +1,7 @@
 from langchain_community.document_loaders import JSONLoader
 import os
 import logging
+from langchain_community.document_loaders import PyPDFLoader
 
 class DataLoader:
     def __init__(self, data_path, content_key=None, metadata_cols=None, loader_type='json'):
@@ -20,6 +21,9 @@ class DataLoader:
             return JSONLoader(file_path=self.data_path,
                               content_key=self.content_key,
                               metadata_func=metadata_func).load()
+        
+        elif self.loader_type == 'pdf':
+            return PyPDFLoader(file_path=self.data_path).load_and_split()
         
         #Use same loader class for different data types later
         else:
