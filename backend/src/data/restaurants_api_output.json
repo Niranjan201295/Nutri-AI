@@ -1,0 +1,331 @@
+{
+  "status": 200,
+  "msg": null,
+  "results": {
+    "location_id": "15333482",
+    "name": "Pago Restaurant",
+    "latitude": "-6.923141",
+    "longitude": "107.62387",
+    "num_reviews": "1163",
+    "timezone": "Asia/Jakarta",
+    "location_string": "Bandung, West Java, Java",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/15/7a/f4/02/pago-balcony.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/15/7a/f4/02/pago-balcony.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "750",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/15/7a/f4/02/pago-balcony.jpg",
+          "height": "500"
+        },
+        "large": {
+          "width": "750",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/15/7a/f4/02/pago-balcony.jpg",
+          "height": "500"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/15/7a/f4/02/pago-balcony.jpg",
+          "height": "367"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2018-11-23T05:50:14-0500",
+      "caption": "Pago Balcony",
+      "id": "360379394",
+      "helpful_votes": "6",
+      "published_date": "2018-11-23T05:50:14-0500",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "as.indonesia.java.bandung",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.953856945037842",
+    "ranking_geo": "Bandung",
+    "ranking_geo_id": "297704",
+    "ranking_position": "3",
+    "ranking_denominator": "1912",
+    "ranking_category": "restaurant",
+    "ranking": "#3 of 2,496 places to eat in Bandung",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "5.0",
+    "is_closed": false,
+    "open_now_text": "Closed Now",
+    "is_long_closed": false,
+    "price_level": "$$ - $$$",
+    "price": "$65,000 - $250,000",
+    "description": "Pago Restaurant is a new dining experience concept serving authentic Indonesian, Asian and Western specialties. Open for breakfast, lunch, and dinner, this restaurant offers extensive buffet and a la carte options.",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g297704-d15333482-Reviews-Pago_Restaurant-Bandung_West_Java_Java.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g297704-d15333482-Pago_Restaurant-Bandung_West_Java_Java.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Bandung",
+        "abbrv": null,
+        "location_id": "297704"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "West Java",
+        "abbrv": null,
+        "location_id": "2301792"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "region",
+            "name": "Region"
+          }
+        ],
+        "name": "Java",
+        "abbrv": null,
+        "location_id": "294228"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Indonesia",
+        "abbrv": null,
+        "location_id": "294225"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "sit_down",
+        "name": "Sit down"
+      }
+    ],
+    "parent_display_name": "Bandung",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "reviews": [
+      {
+        "title": "Bteakfast",
+        "rating": "5",
+        "published_date": "2023-06-30T18:25:17-04:00",
+        "published_platform": null,
+        "summary": "The service & the taste of the food was amazing, the ambience, music was so good. Definetely will be back. Thank you Pago Restaurant!💛",
+        "author": "Wander66297542759",
+        "url": "http://www.tripadvisor.com/ShowUserReviews-g297704-d15333482-r899321280-Pago_Restaurant-Bandung_West_Java_Java.html#review899321280",
+        "review_id": "899321280",
+        "machine_translated": false
+      },
+      {
+        "title": "Amazing experience",
+        "rating": "5",
+        "published_date": "2023-06-10T17:18:49-04:00",
+        "published_platform": null,
+        "summary": "They have various menu, good taste (local, oriental, and western menus), excellent service, nice ambience. We'd like to back again to this restaurant and this hotel.",
+        "author": "saifudinz2018",
+        "url": "http://www.tripadvisor.com/ShowUserReviews-g297704-d15333482-r894406461-Pago_Restaurant-Bandung_West_Java_Java.html#review894406461",
+        "review_id": "894406461",
+        "machine_translated": false
+      },
+      {
+        "title": "Amazing and good food!",
+        "rating": "5",
+        "published_date": "2023-05-29T17:15:04-04:00",
+        "published_platform": null,
+        "summary": "Gugum is very friendly and helpful. His service is very good. Service is 100! polite and always ready to serve",
+        "author": "FarAway28158174506",
+        "url": "http://www.tripadvisor.com/ShowUserReviews-g297704-d15333482-r892556936-Pago_Restaurant-Bandung_West_Java_Java.html#review892556936",
+        "review_id": "892556936",
+        "machine_translated": false
+      }
+    ],
+    "phone": "+62 22 7310799",
+    "website": "http://www.thepapandayan.com/dining/pago",
+    "email": "info@thepapandayan.com",
+    "address_obj": {
+      "street1": "Jl. Gatot Subroto No.83",
+      "street2": "The Papandayan Hotel",
+      "city": "Bandung",
+      "state": null,
+      "country": "Indonesia",
+      "postalcode": "40262"
+    },
+    "address": "Jl. Gatot Subroto No.83 The Papandayan Hotel, Bandung 40262 Indonesia",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 360,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 360,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 360,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 360,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 360,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 360,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 360,
+            "close_time": 1380
+          }
+        ]
+      ],
+      "timezone": "Asia/Jakarta"
+    },
+    "local_name": "Pago Restaurant",
+    "local_address": "",
+    "local_lang_code": "id",
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "9908",
+        "name": "American"
+      },
+      {
+        "key": "10659",
+        "name": "Asian"
+      },
+      {
+        "key": "10690",
+        "name": "Indonesian"
+      },
+      {
+        "key": "10651",
+        "name": "Barbecue"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian Friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan Options"
+      },
+      {
+        "key": "10751",
+        "name": "Halal"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten Free Options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian Friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan Options"
+      },
+      {
+        "key": "10751",
+        "name": "Halal"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten Free Options"
+      }
+    ],
+    "menu_web_url": "http://thepapandayan.com/menu/pago.html",
+    "establishment_category_ranking": "#3 of 2,167 Restaurants in Bandung",
+    "meal_types": [
+      {
+        "key": "10597",
+        "name": "Breakfast"
+      },
+      {
+        "key": "10598",
+        "name": "Lunch"
+      },
+      {
+        "key": "10599",
+        "name": "Dinner"
+      },
+      {
+        "key": "10606",
+        "name": "Brunch"
+      },
+      {
+        "key": "10949",
+        "name": "Drinks"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ],
+    "dishes": [
+      {
+        "key": "10891",
+        "name": "Churrasco"
+      }
+    ],
+    "sub_cuisine": [],
+    "photo_count": "850",
+    "has_review_draft": false,
+    "has_panoramic_photos": false,
+    "rating_histogram": {
+      "count_1": "4",
+      "count_2": "1",
+      "count_3": "4",
+      "count_4": "15",
+      "count_5": "1139"
+    }
+  }
+}

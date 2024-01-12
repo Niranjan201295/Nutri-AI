@@ -1,0 +1,376 @@
+{
+  "status": 200,
+  "msg": null,
+  "results": {
+    "location_id": "13497261",
+    "name": "Mersea Restaurant & Bar",
+    "latitude": "37.822487",
+    "longitude": "-122.37554",
+    "num_reviews": "608",
+    "timezone": "America/Los_Angeles",
+    "location_string": "San Francisco, California",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/1b/0c/35/50/breathtaking-unfiltered.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/1b/0c/35/50/breathtaking-unfiltered.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/0c/35/50/breathtaking-unfiltered.jpg",
+          "height": "960"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/1b/0c/35/50/breathtaking-unfiltered.jpg",
+          "height": "413"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/1b/0c/35/50/breathtaking-unfiltered.jpg",
+          "height": "188"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2020-03-01T02:56:46-0500",
+      "caption": "Breathtaking Unfiltered Views of SF from Mersea!!",
+      "id": "453784912",
+      "helpful_votes": "0",
+      "published_date": "2020-03-01T02:56:46-0500",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "na.us.ca.san_francisco",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.7639665603637695",
+    "ranking_geo": "San Francisco",
+    "ranking_geo_id": "60713",
+    "ranking_position": "1",
+    "ranking_denominator": "3451",
+    "ranking_category": "restaurant",
+    "ranking": "#1 of 6,039 places to eat in San Francisco",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "5.0",
+    "is_closed": false,
+    "open_now_text": "Closed Now",
+    "is_long_closed": false,
+    "price_level": "$$ - $$$",
+    "price": "$6 - $18",
+    "neighborhood_info": [
+      {
+        "location_id": "15621977",
+        "name": "Treasure Island"
+      }
+    ],
+    "description": "“Come for the view, Stay for the food”! Breath-taking, panoraic views of SanFrancisco, Golden-Gate Bridge, Alcatraz and Bay Bridge! Built out of shipping containers, providing “comfort-casual” food created by renown SF Executive chef Parke Ulrich (Waterbar and Epic Steak), who partnered with tech entrepreneur MeeSun Boice to build a “destination restaurant” that has its own putting green, bocce courts and corn-hole game. Upcycled and repurposed pallets for outside seating and herb garden, tables from old Treasure Island bowling alley lanes and doors from the military kitchen!",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g60713-d13497261-Reviews-Mersea_Restaurant_Bar-San_Francisco_California.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g60713-d13497261-Mersea_Restaurant_Bar-San_Francisco_California.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "San Francisco",
+        "abbrv": null,
+        "location_id": "60713"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "state",
+            "name": "State"
+          }
+        ],
+        "name": "California",
+        "abbrv": "CA",
+        "location_id": "28926"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "United States",
+        "abbrv": null,
+        "location_id": "191"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "sit_down",
+        "name": "Sit down"
+      }
+    ],
+    "parent_display_name": "San Francisco",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "reviews": [
+      {
+        "title": "Midweek is undiscovered at this great place, with killer view of San Francisco",
+        "rating": "5",
+        "published_date": "2024-01-11T13:58:09-05:00",
+        "published_platform": null,
+        "summary": "Hugely undiscovered mid-week experience awaits here!  The view is incredible and the food is just wonderful - totally unexpected to have fish tacos this good in such a low key place. Very friendly...",
+        "author": "477larryo",
+        "url": "http://www.tripadvisor.com/ShowUserReviews-g60713-d13497261-r933743937-Mersea_Restaurant_Bar-San_Francisco_California.html#review933743937",
+        "review_id": "933743937",
+        "machine_translated": false
+      },
+      {
+        "title": "Bring the dog",
+        "rating": "5",
+        "published_date": "2024-01-05T12:04:03-05:00",
+        "published_platform": null,
+        "summary": "Ambiance great, view is amazing and food is to die for. Stopped here after some long flights from London and New York last week. We were pooped but had been thinking about our favourite place for...",
+        "author": "bernieBaby",
+        "url": "http://www.tripadvisor.com/ShowUserReviews-g60713-d13497261-r932435580-Mersea_Restaurant_Bar-San_Francisco_California.html#review932435580",
+        "review_id": "932435580",
+        "machine_translated": false
+      },
+      {
+        "title": "Mersea lunch",
+        "rating": "2",
+        "published_date": "2024-01-04T08:05:38-05:00",
+        "published_platform": null,
+        "summary": "Went to Mersea with my wife and close family friend. The view is spectacular, however the food was nothing special.Our meal was good but nothing exceptional. The caesar sald lacked enough dressing...",
+        "author": "iani815",
+        "url": "http://www.tripadvisor.com/ShowUserReviews-g60713-d13497261-r932290400-Mersea_Restaurant_Bar-San_Francisco_California.html#review932290400",
+        "review_id": "932290400",
+        "machine_translated": false
+      }
+    ],
+    "phone": "+1 415-999-9836",
+    "website": "http://www.mersea.restaurant/about-2/",
+    "email": "events@mersea.restaurant",
+    "address_obj": {
+      "street1": "699 Avenue of the Palms",
+      "street2": "Treasure Island",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "United States",
+      "postalcode": "94130"
+    },
+    "address": "699 Avenue of the Palms Treasure Island, San Francisco, CA 94130",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 660,
+            "close_time": 960
+          }
+        ],
+        [],
+        [],
+        [
+          {
+            "open_time": 660,
+            "close_time": 960
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 1080
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 1080
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 1080
+          }
+        ]
+      ],
+      "timezone": "America/Los_Angeles"
+    },
+    "local_name": "Mersea Restaurant & Bar",
+    "local_address": "699 Avenue of the Palms, Treasure Island, 94130",
+    "local_lang_code": "en-US",
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "9908",
+        "name": "American"
+      },
+      {
+        "key": "10640",
+        "name": "Bar"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian Friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan Options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten Free Options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian Friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan Options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten Free Options"
+      }
+    ],
+    "menu_web_url": "https://www.mersea.restaurant/menu",
+    "establishment_category_ranking": "#1 of 4,974 Restaurants in San Francisco",
+    "meal_types": [
+      {
+        "key": "10598",
+        "name": "Lunch"
+      },
+      {
+        "key": "10599",
+        "name": "Dinner"
+      },
+      {
+        "key": "10606",
+        "name": "Brunch"
+      },
+      {
+        "key": "10949",
+        "name": "Drinks"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ],
+    "dishes": [
+      {
+        "key": "10616",
+        "name": "Chowder"
+      },
+      {
+        "key": "10883",
+        "name": "Ceviche"
+      },
+      {
+        "key": "10884",
+        "name": "Cheeseburger"
+      },
+      {
+        "key": "10893",
+        "name": "Crab"
+      },
+      {
+        "key": "10901",
+        "name": "Fish & Chips"
+      },
+      {
+        "key": "10907",
+        "name": "Burger"
+      },
+      {
+        "key": "10932",
+        "name": "Ribs"
+      },
+      {
+        "key": "10937",
+        "name": "Shrimp"
+      },
+      {
+        "key": "16553",
+        "name": "Fish Taco"
+      },
+      {
+        "key": "16554",
+        "name": "Salad"
+      },
+      {
+        "key": "19954",
+        "name": "Tacos"
+      },
+      {
+        "key": "19958",
+        "name": "Clam Chowder"
+      },
+      {
+        "key": "20144",
+        "name": "Cioppino"
+      },
+      {
+        "key": "20543",
+        "name": "Haddock"
+      },
+      {
+        "key": "20552",
+        "name": "Tuna"
+      },
+      {
+        "key": "20703",
+        "name": "French Fries"
+      },
+      {
+        "key": "20730",
+        "name": "Toasts"
+      },
+      {
+        "key": "20754",
+        "name": "Hamburgers"
+      },
+      {
+        "key": "21306",
+        "name": "Soft serve ice cream"
+      },
+      {
+        "key": "21324",
+        "name": "Fish"
+      },
+      {
+        "key": "21326",
+        "name": "Pork"
+      }
+    ],
+    "sub_cuisine": [],
+    "photo_count": "546",
+    "has_review_draft": false,
+    "has_panoramic_photos": false,
+    "rating_histogram": {
+      "count_1": "4",
+      "count_2": "6",
+      "count_3": "9",
+      "count_4": "24",
+      "count_5": "566"
+    }
+  }
+}

@@ -1,0 +1,874 @@
+{
+    "status": 200,
+    "msg": null,
+    "results": {
+        "data": [
+            {
+                "result_type": "geos",
+                "result_object": {
+                    "location_id": "60713",
+                    "name": "San Francisco",
+                    "latitude": "37.778934",
+                    "longitude": "-122.41579",
+                    "timezone": "America/Los_Angeles",
+                    "location_string": "San Francisco, California",
+                    "photo": {
+                        "images": {
+                            "small": {
+                                "width": "150",
+                                "url": "https://media-cdn.tripadvisor.com/media/photo-l/1c/c2/87/c8/caption.jpg",
+                                "height": "150"
+                            },
+                            "thumbnail": {
+                                "width": "50",
+                                "url": "https://media-cdn.tripadvisor.com/media/photo-t/1c/c2/87/c8/caption.jpg",
+                                "height": "50"
+                            },
+                            "original": {
+                                "width": "5777",
+                                "url": "https://media-cdn.tripadvisor.com/media/photo-o/1c/c2/87/c8/caption.jpg",
+                                "height": "3851"
+                            },
+                            "large": {
+                                "width": "550",
+                                "url": "https://media-cdn.tripadvisor.com/media/photo-s/1c/c2/87/c8/caption.jpg",
+                                "height": "367"
+                            },
+                            "medium": {
+                                "width": "250",
+                                "url": "https://media-cdn.tripadvisor.com/media/photo-f/1c/c2/87/c8/caption.jpg",
+                                "height": "167"
+                            }
+                        },
+                        "is_blessed": false,
+                        "uploaded_date": "2021-03-19T11:34:09-0400",
+                        "caption": "",
+                        "id": "482510792",
+                        "helpful_votes": "12",
+                        "published_date": "2021-03-19T11:34:09-0400",
+                        "user": null
+                    },
+                    "default_options": [
+                        {
+                            "key": "overview",
+                            "name": "San Francisco Overview"
+                        },
+                        {
+                            "key": "restaurants",
+                            "name": "Restaurants"
+                        },
+                        {
+                            "key": "things_to_do",
+                            "name": "Things to Do"
+                        },
+                        {
+                            "key": "lodging",
+                            "name": "Hotels"
+                        },
+                        {
+                            "key": "vacation_rentals",
+                            "name": "Vacation Rentals"
+                        },
+                        {
+                            "key": "flights_to",
+                            "name": "Flights"
+                        },
+                        {
+                            "key": "neighborhoods",
+                            "name": "Neighborhoods"
+                        }
+                    ],
+                    "geo_type": "narrow",
+                    "location_subtype": "none",
+                    "has_restaurant_coverpage": true,
+                    "has_attraction_coverpage": true,
+                    "has_curated_shopping_list": false,
+                    "show_address": true,
+                    "preferred_map_engine": "default",
+                    "description": "Each of San Francisco's unique neighborhoods has its own collective personality shaped by its residents, topography and history. This diversity is one of the great hallmarks of the city, as well as its tradition for rebellion, and both make traversing San Francisco as a visitor an intriguing adventure that provides fresh discoveries for locals as well. While half of the city’s growth during the 19th century was due to the arrival of American immigrants, the balance was due to immigration from around the world. Today, the city's neighborhoods reflect this fact with their cosmopolitan flair and distinctive character.",
+                    "is_localized_description": true,
+                    "ancestors": [
+                        {
+                            "subcategory": [
+                                {
+                                    "key": "state",
+                                    "name": "State"
+                                }
+                            ],
+                            "name": "California",
+                            "abbrv": "CA",
+                            "location_id": "28926"
+                        },
+                        {
+                            "subcategory": [
+                                {
+                                    "key": "country",
+                                    "name": "Country"
+                                }
+                            ],
+                            "name": "United States",
+                            "abbrv": null,
+                            "location_id": "191"
+                        }
+                    ],
+                    "parent_display_name": "California",
+                    "guide_count": "0"
+                },
+                "scope": "local"
+            },
+            {
+                "result_type": "geos",
+                "result_object": {
+                    "location_id": "552077",
+                    "name": "San Francisco",
+                    "latitude": "20.898428",
+                    "longitude": "-105.41025",
+                    "timezone": "America/Mazatlan",
+                    "location_string": "San Francisco, Mexico",
+                    "photo": {
+                        "images": {
+                            "small": {
+                                "width": "150",
+                                "url": "https://media-cdn.tripadvisor.com/media/photo-l/11/a6/96/b9/photo1jpg.jpg",
+                                "height": "150"
+                            },
+                            "thumbnail": {
+                                "width": "50",
+                                "url": "https://media-cdn.tripadvisor.com/media/photo-t/11/a6/96/b9/photo1jpg.jpg",
+                                "height": "50"
+                            },
+                            "original": {
+                                "width": "2048",
+                                "url": "https://media-cdn.tripadvisor.com/media/photo-o/11/a6/96/b9/photo1jpg.jpg",
+                                "height": "2048"
+                            },
+                            "large": {
+                                "width": "450",
+                                "url": "https://media-cdn.tripadvisor.com/media/photo-s/11/a6/96/b9/photo1jpg.jpg",
+                                "height": "450"
+                            },
+                            "medium": {
+                                "width": "205",
+                                "url": "https://media-cdn.tripadvisor.com/media/photo-f/11/a6/96/b9/photo1jpg.jpg",
+                                "height": "205"
+                            }
+                        },
+                        "is_blessed": false,
+                        "uploaded_date": "2018-01-01T17:14:20-0500",
+                        "caption": "",
+                        "id": "296130233",
+                        "helpful_votes": "27",
+                        "published_date": "2018-01-01T17:14:20-0500",
+                        "user": {
+                            "user_id": null,
+                            "member_id": "0",
+                            "type": "user"
+                        }
+                    },
+                    "default_options": [
+                        {
+                            "key": "overview",
+                            "name": "San Francisco Overview"
+                        },
+                        {
+                            "key": "restaurants",
+                            "name": "Restaurants"
+                        },
+                        {
+                            "key": "things_to_do",
+                            "name": "Things to Do"
+                        },
+                        {
+                            "key": "lodging",
+                            "name": "Hotels"
+                        },
+                        {
+                            "key": "vacation_rentals",
+                            "name": "Vacation Rentals"
+                        },
+                        {
+                            "key": "flights_to",
+                            "name": "Flights"
+                        }
+                    ],
+                    "geo_type": "narrow",
+                    "location_subtype": "none",
+                    "has_restaurant_coverpage": true,
+                    "has_attraction_coverpage": true,
+                    "has_curated_shopping_list": false,
+                    "show_address": true,
+                    "preferred_map_engine": "default",
+                    "description": "",
+                    "ancestors": [
+                        {
+                            "subcategory": [
+                                {
+                                    "key": "region",
+                                    "name": "Region"
+                                }
+                            ],
+                            "name": "Riviera Nayarit",
+                            "abbrv": null,
+                            "location_id": "679578"
+                        },
+                        {
+                            "subcategory": [
+                                {
+                                    "key": "state",
+                                    "name": "State"
+                                }
+                            ],
+                            "name": "Nayarit",
+                            "abbrv": null,
+                            "location_id": "1575476"
+                        },
+                        {
+                            "subcategory": [
+                                {
+                                    "key": "region",
+                                    "name": "Region"
+                                }
+                            ],
+                            "name": "Pacific Coast",
+                            "abbrv": null,
+                            "location_id": "150786"
+                        },
+                        {
+                            "subcategory": [
+                                {
+                                    "key": "country",
+                                    "name": "Country"
+                                }
+                            ],
+                            "name": "Mexico",
+                            "abbrv": null,
+                            "location_id": "150768"
+                        }
+                    ],
+                    "parent_display_name": "Mexico",
+                    "guide_count": "0"
+                },
+                "scope": "local"
+            },
+            {
+                "result_type": "geos",
+                "result_object": {
+                    "location_id": "33116",
+                    "name": "South San Francisco",
+                    "latitude": "37.65607",
+                    "longitude": "-122.41418",
+                    "timezone": "America/Los_Angeles",
+                    "location_string": "South San Francisco, California",
+                    "photo": {
+                        "images": {
+                            "small": {
+                                "width": "150",
+                                "url": "https://media-cdn.tripadvisor.com/media/photo-l/08/d3/41/2d/san-francisco.jpg",
+                                "height": "150"
+                            },
+                            "thumbnail": {
+                                "width": "50",
+                                "url": "https://media-cdn.tripadvisor.com/media/photo-t/08/d3/41/2d/san-francisco.jpg",
+                                "height": "50"
+                            },
+                            "original": {
+                                "width": "2000",
+                                "url": "https://media-cdn.tripadvisor.com/media/photo-o/08/d3/41/2d/san-francisco.jpg",
+                                "height": "1342"
+                            },
+                            "large": {
+                                "width": "550",
+                                "url": "https://media-cdn.tripadvisor.com/media/photo-s/08/d3/41/2d/san-francisco.jpg",
+                                "height": "369"
+                            },
+                            "medium": {
+                                "width": "250",
+                                "url": "https://media-cdn.tripadvisor.com/media/photo-f/08/d3/41/2d/san-francisco.jpg",
+                                "height": "168"
+                            }
+                        },
+                        "is_blessed": false,
+                        "uploaded_date": "2015-09-02T09:42:13-0400",
+                        "caption": "alcatraz",
+                        "id": "148062509",
+                        "helpful_votes": "0",
+                        "published_date": "2015-09-04T01:57:33-0400",
+                        "user": {
+                            "user_id": null,
+                            "member_id": "0",
+                            "type": "user"
+                        }
+                    },
+                    "default_options": [
+                        {
+                            "key": "overview",
+                            "name": "South San Francisco Overview"
+                        },
+                        {
+                            "key": "restaurants",
+                            "name": "Restaurants"
+                        },
+                        {
+                            "key": "things_to_do",
+                            "name": "Things to Do"
+                        },
+                        {
+                            "key": "lodging",
+                            "name": "Hotels"
+                        },
+                        {
+                            "key": "vacation_rentals",
+                            "name": "Vacation Rentals"
+                        },
+                        {
+                            "key": "flights_to",
+                            "name": "Flights"
+                        }
+                    ],
+                    "geo_type": "narrow",
+                    "location_subtype": "none",
+                    "has_restaurant_coverpage": true,
+                    "has_attraction_coverpage": true,
+                    "has_curated_shopping_list": false,
+                    "show_address": false,
+                    "preferred_map_engine": "default",
+                    "description": "",
+                    "ancestors": [
+                        {
+                            "subcategory": [
+                                {
+                                    "key": "state",
+                                    "name": "State"
+                                }
+                            ],
+                            "name": "California",
+                            "abbrv": "CA",
+                            "location_id": "28926"
+                        },
+                        {
+                            "subcategory": [
+                                {
+                                    "key": "country",
+                                    "name": "Country"
+                                }
+                            ],
+                            "name": "United States",
+                            "abbrv": null,
+                            "location_id": "191"
+                        }
+                    ],
+                    "parent_display_name": "California",
+                    "guide_count": "0"
+                },
+                "scope": "local"
+            },
+            {
+                "result_type": "geos",
+                "result_object": {
+                    "location_id": "2356531",
+                    "name": "San Francisco de Macoris",
+                    "latitude": "19.29753",
+                    "longitude": "-70.25483",
+                    "timezone": "America/Santo_Domingo",
+                    "location_string": "San Francisco de Macoris, Dominican Republic",
+                    "photo": {
+                        "images": {
+                            "small": {
+                                "width": "150",
+                                "url": "https://media-cdn.tripadvisor.com/media/photo-l/0f/3e/2d/c6/el-sendero.jpg",
+                                "height": "150"
+                            },
+                            "thumbnail": {
+                                "width": "50",
+                                "url": "https://media-cdn.tripadvisor.com/media/photo-t/0f/3e/2d/c6/el-sendero.jpg",
+                                "height": "50"
+                            },
+                            "original": {
+                                "width": "640",
+                                "url": "https://media-cdn.tripadvisor.com/media/photo-o/0f/3e/2d/c6/el-sendero.jpg",
+                                "height": "427"
+                            },
+                            "large": {
+                                "width": "550",
+                                "url": "https://media-cdn.tripadvisor.com/media/photo-s/0f/3e/2d/c6/el-sendero.jpg",
+                                "height": "367"
+                            },
+                            "medium": {
+                                "width": "250",
+                                "url": "https://media-cdn.tripadvisor.com/media/photo-f/0f/3e/2d/c6/el-sendero.jpg",
+                                "height": "167"
+                            }
+                        },
+                        "is_blessed": true,
+                        "uploaded_date": "2017-05-11T12:32:15-0400",
+                        "caption": "El Sendero",
+                        "id": "255733190",
+                        "helpful_votes": "5",
+                        "published_date": "2017-05-11T12:32:15-0400",
+                        "user": {
+                            "user_id": null,
+                            "member_id": "0",
+                            "type": "user"
+                        }
+                    },
+                    "default_options": [
+                        {
+                            "key": "overview",
+                            "name": "San Francisco de Macoris Overview"
+                        },
+                        {
+                            "key": "restaurants",
+                            "name": "Restaurants"
+                        },
+                        {
+                            "key": "things_to_do",
+                            "name": "Things to Do"
+                        },
+                        {
+                            "key": "lodging",
+                            "name": "Hotels"
+                        },
+                        {
+                            "key": "vacation_rentals",
+                            "name": "Vacation Rentals"
+                        },
+                        {
+                            "key": "flights_to",
+                            "name": "Flights"
+                        }
+                    ],
+                    "geo_type": "narrow",
+                    "location_subtype": "none",
+                    "has_restaurant_coverpage": false,
+                    "has_attraction_coverpage": true,
+                    "has_curated_shopping_list": false,
+                    "show_address": false,
+                    "preferred_map_engine": "default",
+                    "description": "",
+                    "ancestors": [
+                        {
+                            "subcategory": [
+                                {
+                                    "key": "province",
+                                    "name": "Province"
+                                }
+                            ],
+                            "name": "Duarte Province",
+                            "abbrv": null,
+                            "location_id": "3458433"
+                        },
+                        {
+                            "subcategory": [
+                                {
+                                    "key": "island",
+                                    "name": "Island"
+                                }
+                            ],
+                            "name": "Dominican Republic",
+                            "abbrv": null,
+                            "location_id": "147288"
+                        },
+                        {
+                            "subcategory": [
+                                {
+                                    "key": "country",
+                                    "name": "Country"
+                                }
+                            ],
+                            "name": "Caribbean",
+                            "abbrv": null,
+                            "location_id": "147237"
+                        }
+                    ],
+                    "parent_display_name": "Dominican Republic",
+                    "guide_count": "0"
+                },
+                "scope": "local"
+            },
+            {
+                "result_type": "geos",
+                "result_object": {
+                    "location_id": "2019901",
+                    "name": "San Francisco",
+                    "latitude": "15.96712",
+                    "longitude": "120.68871",
+                    "timezone": "Asia/Manila",
+                    "location_string": "San Francisco, Philippines",
+                    "photo": {
+                        "images": {
+                            "small": {
+                                "width": "150",
+                                "url": "https://media-cdn.tripadvisor.com/media/photo-l/09/83/e7/41/p-20151028-124300-1-p.jpg",
+                                "height": "150"
+                            },
+                            "thumbnail": {
+                                "width": "50",
+                                "url": "https://media-cdn.tripadvisor.com/media/photo-t/09/83/e7/41/p-20151028-124300-1-p.jpg",
+                                "height": "50"
+                            },
+                            "original": {
+                                "width": "1536",
+                                "url": "https://media-cdn.tripadvisor.com/media/photo-o/09/83/e7/41/p-20151028-124300-1-p.jpg",
+                                "height": "864"
+                            },
+                            "large": {
+                                "width": "550",
+                                "url": "https://media-cdn.tripadvisor.com/media/photo-s/09/83/e7/41/p-20151028-124300-1-p.jpg",
+                                "height": "309"
+                            },
+                            "medium": {
+                                "width": "250",
+                                "url": "https://media-cdn.tripadvisor.com/media/photo-f/09/83/e7/41/p-20151028-124300-1-p.jpg",
+                                "height": "141"
+                            }
+                        },
+                        "is_blessed": false,
+                        "uploaded_date": "2015-11-14T13:51:12-0500",
+                        "caption": "",
+                        "id": "159639361",
+                        "helpful_votes": "14",
+                        "published_date": "2015-11-14T13:51:12-0500",
+                        "user": {
+                            "user_id": null,
+                            "member_id": "0",
+                            "type": "user"
+                        }
+                    },
+                    "default_options": [
+                        {
+                            "key": "overview",
+                            "name": "San Francisco Overview"
+                        },
+                        {
+                            "key": "restaurants",
+                            "name": "Restaurants"
+                        },
+                        {
+                            "key": "things_to_do",
+                            "name": "Things to Do"
+                        },
+                        {
+                            "key": "lodging",
+                            "name": "Hotels"
+                        },
+                        {
+                            "key": "vacation_rentals",
+                            "name": "Vacation Rentals"
+                        },
+                        {
+                            "key": "flights_to",
+                            "name": "Flights"
+                        }
+                    ],
+                    "geo_type": "narrow",
+                    "location_subtype": "none",
+                    "has_restaurant_coverpage": false,
+                    "has_attraction_coverpage": true,
+                    "has_curated_shopping_list": false,
+                    "show_address": true,
+                    "preferred_map_engine": "default",
+                    "description": "",
+                    "ancestors": [
+                        {
+                            "subcategory": [
+                                {
+                                    "key": "island",
+                                    "name": "Island"
+                                }
+                            ],
+                            "name": "Pacijan Island",
+                            "abbrv": null,
+                            "location_id": "2019900"
+                        },
+                        {
+                            "subcategory": [
+                                {
+                                    "key": "islandgroup",
+                                    "name": "Island Group"
+                                }
+                            ],
+                            "name": "Camotes Islands",
+                            "abbrv": null,
+                            "location_id": "2019898"
+                        },
+                        {
+                            "subcategory": [
+                                {
+                                    "key": "islandgroup",
+                                    "name": "Island Group"
+                                }
+                            ],
+                            "name": "Visayas",
+                            "abbrv": null,
+                            "location_id": "294258"
+                        },
+                        {
+                            "subcategory": [
+                                {
+                                    "key": "country",
+                                    "name": "Country"
+                                }
+                            ],
+                            "name": "Philippines",
+                            "abbrv": null,
+                            "location_id": "294245"
+                        }
+                    ],
+                    "parent_display_name": "Philippines",
+                    "guide_count": "0"
+                },
+                "scope": "local"
+            },
+            {
+                "result_type": "geos",
+                "result_object": {
+                    "location_id": "1551540",
+                    "name": "San Francisco del Rincon",
+                    "latitude": "21.018568",
+                    "longitude": "-101.85282",
+                    "timezone": "America/Mexico_City",
+                    "location_string": "San Francisco del Rincon, Mexico",
+                    "photo": {
+                        "images": {
+                            "small": {
+                                "width": "150",
+                                "url": "https://media-cdn.tripadvisor.com/media/photo-l/22/4b/12/9c/japan-plans-to-deploy.jpg",
+                                "height": "150"
+                            },
+                            "thumbnail": {
+                                "width": "50",
+                                "url": "https://media-cdn.tripadvisor.com/media/photo-t/22/4b/12/9c/japan-plans-to-deploy.jpg",
+                                "height": "50"
+                            },
+                            "original": {
+                                "width": "2000",
+                                "url": "https://media-cdn.tripadvisor.com/media/photo-o/22/4b/12/9c/japan-plans-to-deploy.jpg",
+                                "height": "1299"
+                            },
+                            "large": {
+                                "width": "550",
+                                "url": "https://media-cdn.tripadvisor.com/media/photo-s/22/4b/12/9c/japan-plans-to-deploy.jpg",
+                                "height": "357"
+                            },
+                            "medium": {
+                                "width": "250",
+                                "url": "https://media-cdn.tripadvisor.com/media/photo-f/22/4b/12/9c/japan-plans-to-deploy.jpg",
+                                "height": "162"
+                            }
+                        },
+                        "is_blessed": false,
+                        "uploaded_date": "2022-03-03T04:04:13-0500",
+                        "caption": "Japan plans to deploy self defense forces on Ishigaki Island, which is opposed by local residents. Ishigaki Island is a beautiful island in the name of tourism. The presence of the self defense forces may damage the local tourism industry. Since March this year, local citizens have been holding demonstrations and rallies and calling for a referendum to sign their names to protest the deployment plan of the self defense force.",
+                        "id": "575345308",
+                        "helpful_votes": "0",
+                        "published_date": "2022-03-03T04:04:13-0500",
+                        "user": {
+                            "user_id": null,
+                            "member_id": "0",
+                            "type": "user"
+                        }
+                    },
+                    "default_options": [
+                        {
+                            "key": "overview",
+                            "name": "San Francisco del Rincon Overview"
+                        },
+                        {
+                            "key": "restaurants",
+                            "name": "Restaurants"
+                        },
+                        {
+                            "key": "things_to_do",
+                            "name": "Things to Do"
+                        },
+                        {
+                            "key": "lodging",
+                            "name": "Hotels"
+                        },
+                        {
+                            "key": "vacation_rentals",
+                            "name": "Vacation Rentals"
+                        },
+                        {
+                            "key": "flights_to",
+                            "name": "Flights"
+                        }
+                    ],
+                    "geo_type": "narrow",
+                    "location_subtype": "none",
+                    "has_restaurant_coverpage": false,
+                    "has_attraction_coverpage": false,
+                    "has_curated_shopping_list": false,
+                    "show_address": false,
+                    "preferred_map_engine": "default",
+                    "description": "",
+                    "ancestors": [
+                        {
+                            "subcategory": [
+                                {
+                                    "key": "state",
+                                    "name": "State"
+                                }
+                            ],
+                            "name": "Guanajuato",
+                            "abbrv": null,
+                            "location_id": "1575490"
+                        },
+                        {
+                            "subcategory": [
+                                {
+                                    "key": "region",
+                                    "name": "Region"
+                                }
+                            ],
+                            "name": "Central Mexico and Gulf Coast",
+                            "abbrv": null,
+                            "location_id": "150796"
+                        },
+                        {
+                            "subcategory": [
+                                {
+                                    "key": "country",
+                                    "name": "Country"
+                                }
+                            ],
+                            "name": "Mexico",
+                            "abbrv": null,
+                            "location_id": "150768"
+                        }
+                    ],
+                    "parent_display_name": "Mexico",
+                    "guide_count": "0"
+                },
+                "scope": "local"
+            },
+            {
+                "result_type": "geos",
+                "result_object": {
+                    "location_id": "14983979",
+                    "name": "San Francisco Telixtlahuaca",
+                    "latitude": "17.303305",
+                    "longitude": "-96.90944",
+                    "timezone": "America/Mexico_City",
+                    "location_string": "San Francisco Telixtlahuaca, Mexico",
+                    "photo": {
+                        "images": {
+                            "small": {
+                                "width": "150",
+                                "url": "https://media-cdn.tripadvisor.com/media/photo-l/2a/65/fa/f2/around-the-day-of-the.jpg",
+                                "height": "150"
+                            },
+                            "thumbnail": {
+                                "width": "50",
+                                "url": "https://media-cdn.tripadvisor.com/media/photo-t/2a/65/fa/f2/around-the-day-of-the.jpg",
+                                "height": "50"
+                            },
+                            "original": {
+                                "width": "2500",
+                                "url": "https://media-cdn.tripadvisor.com/media/photo-o/2a/65/fa/f2/around-the-day-of-the.jpg",
+                                "height": "1665"
+                            },
+                            "large": {
+                                "width": "550",
+                                "url": "https://media-cdn.tripadvisor.com/media/photo-s/2a/65/fa/f2/around-the-day-of-the.jpg",
+                                "height": "366"
+                            },
+                            "medium": {
+                                "width": "250",
+                                "url": "https://media-cdn.tripadvisor.com/media/photo-f/2a/65/fa/f2/around-the-day-of-the.jpg",
+                                "height": "167"
+                            }
+                        },
+                        "is_blessed": false,
+                        "uploaded_date": "2023-09-22T12:58:52-0400",
+                        "caption": "Around the Day of the Dead there are very beautiful flower fields that we can visit.",
+                        "id": "711326450",
+                        "helpful_votes": "0",
+                        "published_date": "2023-09-22T12:58:52-0400",
+                        "user": {
+                            "user_id": null,
+                            "member_id": "0",
+                            "type": "user"
+                        }
+                    },
+                    "default_options": [
+                        {
+                            "key": "overview",
+                            "name": "San Francisco Telixtlahuaca Overview"
+                        },
+                        {
+                            "key": "restaurants",
+                            "name": "Restaurants"
+                        },
+                        {
+                            "key": "vacation_rentals",
+                            "name": "Vacation Rentals"
+                        },
+                        {
+                            "key": "flights_to",
+                            "name": "Flights"
+                        }
+                    ],
+                    "geo_type": "narrow",
+                    "location_subtype": "none",
+                    "has_restaurant_coverpage": false,
+                    "has_attraction_coverpage": false,
+                    "has_curated_shopping_list": false,
+                    "show_address": false,
+                    "preferred_map_engine": "default",
+                    "description": "",
+                    "ancestors": [
+                        {
+                            "subcategory": [
+                                {
+                                    "key": "municipality",
+                                    "name": "Municipality"
+                                }
+                            ],
+                            "name": "San Francisco Telixtlahuaca Municipality",
+                            "abbrv": null,
+                            "location_id": "14971118"
+                        },
+                        {
+                            "subcategory": [
+                                {
+                                    "key": "state",
+                                    "name": "State"
+                                }
+                            ],
+                            "name": "Oaxaca",
+                            "abbrv": null,
+                            "location_id": "1575482"
+                        },
+                        {
+                            "subcategory": [
+                                {
+                                    "key": "region",
+                                    "name": "Region"
+                                }
+                            ],
+                            "name": "Southern Mexico",
+                            "abbrv": null,
+                            "location_id": "3194809"
+                        },
+                        {
+                            "subcategory": [
+                                {
+                                    "key": "country",
+                                    "name": "Country"
+                                }
+                            ],
+                            "name": "Mexico",
+                            "abbrv": null,
+                            "location_id": "150768"
+                        }
+                    ],
+                    "parent_display_name": "Mexico",
+                    "guide_count": "0"
+                },
+                "scope": "global"
+            }
+        ],
+        "partial_content": false
+    }
+}
